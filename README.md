@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Fix Yolo 8.0.206 scale bug (#7821)

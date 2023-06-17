@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Compare plt.get_backend() in lowercase (#8409)

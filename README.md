@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)

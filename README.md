@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)

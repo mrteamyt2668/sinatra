@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Cleanup Docs languages (#7865)

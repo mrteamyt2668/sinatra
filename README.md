@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)

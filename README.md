@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)

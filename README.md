@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Update Discord and Contributing Guide URLs (#9270)

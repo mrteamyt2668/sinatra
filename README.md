@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)

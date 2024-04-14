@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix cmake requirements for ARM64 (#8589)

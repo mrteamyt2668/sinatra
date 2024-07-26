@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)

@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+fix yolo classify model loading error (#9196)

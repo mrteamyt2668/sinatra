@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Fix IS_PYTHON_3_12 bug (#9258)

@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)

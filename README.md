@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update Colab notebook for YOLOv8.1 (#8660)
